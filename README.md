@@ -1,4 +1,4 @@
-# desafio-multiplier-nuxt
+# Desafio-Multiplier-Nuxt
 
 ## Build Setup
 
